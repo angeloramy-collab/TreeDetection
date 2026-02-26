@@ -122,6 +122,12 @@ run_end_to_end(
 # 
 | Name / Nom | Joke in Malagasy / Blague en Malagasy | Translation / Traduction |
 |------------|---------------------------------------|--------------------------|
-| Steven Longmore | Nahoana ny lemur no tsy mampiasa ordinatera? Satria matahotra ny "mouse" izy! | Why don't lemurs use computers? Because they're afraid of the mouse! |
+| Steven Longmore | Nahoana ny lemur no tsy mampiasa ordinatera? Satria matahotra ny totozy izy! | Why don't lemurs use computers? Because they're afraid of the mouse! |
 | RAOELIARIMANANA | Rehefa manao régime hono dia tsy mihinana intsony… fa manandrana tsiro fotsiny impiry impiry isan’andro| |
-| NahojRavelo | “Anaka, inona no tianao hatao rehefa lehibe ianao ?” “Te ho mpamily fiara aho dada.” “Fa maninona ?” “Satria na tara aza dia mbola lazaina hoe ‘tonga ara-potoana’ ” “Ahoana izany ?” “Satria hoe : tonga ihany!” | |
+
+ “Anaka, inona no tianao hatao rehefa lehibe ianao ?”
+ “Te ho mpamily fiara aho dada.”
+ “Fa maninona ?”
+ “Satria na tara aza dia mbola lazaina hoe ‘tonga ara-potoana’ ”
+ “Ahoana izany ?”
+ “Satria hoe : tonga ihany!”
